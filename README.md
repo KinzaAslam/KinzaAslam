@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kinza Aslam</h1>
-- 🔭 I’m currently working on **HTML,CSS**
+- 🔭 I’m currently working on **HTML,CSS,JAVA SCRIPT**
 
 - 🌱 I’m currently learning **JAVA,GUI**
 
